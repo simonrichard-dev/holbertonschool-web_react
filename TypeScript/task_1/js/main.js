@@ -8,4 +8,7 @@ var director1 = {
     fullTimeEmployee: true,
     numberOfReports: 17,
 };
-console.log(director1);
+function printTeacher(firstName, lastName) {
+    return (firstName.charAt(0) + ". " + lastName);
+}
+printTeacher("John", "Doe");
