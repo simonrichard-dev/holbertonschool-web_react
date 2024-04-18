@@ -8,22 +8,22 @@ interface Student {
   }
 
 let student1 : Student = {
-    firstName: 'Claudia',
-    lastName: 'Bura',
+    firstName: "Claudia",
+    lastName: "Bura",
     age: 36,
-    location: 'Garches',
+    location: "Garches",
 };
 
 let student2 : Student = {
-    firstName: 'Dinu',
-    lastName: 'Mira',
+    firstName: "Dinu",
+    lastName: "Mira",
     age: 32,
-    location: 'Toulouse',
+    location: "Toulouse",
 };
 
 const studentsList : Array<Student> = [student1, student2];
 
-const table = document.createElement('table');
+let table : HTMLTableElement = <HTMLTableElement> document.createElement("table");
 
 studentsList.forEach((student) => {
     const row = table.insertRow();
