@@ -15,7 +15,9 @@ function App() {
       </body>
 
       <footer className="App-footer">
-        <p className='p-footer'>Copyright 2024 - holberton School</p>
+        <p className='p-footer'>
+          <em>Copyright 2024 - holberton School</em>
+        </p>
       </footer>
 
     </div>
