@@ -1,0 +1,43 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.Notifications {
+  margin: 1.5vh;
+  height: 15vh;
+  border: #e0003c solid 2px;
+  border-style: dashed;
+}
+
+.Notifications img {
+  width: 3vh;
+}
+
+.Notifications button {
+  text-decoration: none;
+  border: none;
+  background: none;
+  cursor: pointer; 
+}
+
+.Notifications p {
+  display: flex;
+  padding-top: 2vh;
+  margin-left: 2vh;
+
+}
+
+.Notifications ul {
+  padding: 2vh 1vh 2vh 4vh;
+}
+
+
+li[data-priority="default"] {
+  color: rgb(4, 4, 148);
+}
+
+li[data-priority="urgent"] {
+  color: red;
+}
