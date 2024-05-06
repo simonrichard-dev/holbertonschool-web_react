@@ -5,7 +5,7 @@
 }
 
 .root-notifications {
-  height: 20vh;
+  height: 15vh;
 }
 
 .App {
@@ -19,7 +19,7 @@
 }
 
 .App-header img{
-  width: 200px;
+  width: 20vh;
 }
 .App-header h1{
   display: flex;
@@ -30,22 +30,30 @@
 .App-body{
   display: flex;
   flex-direction: column;
-  padding: 45px;
-  gap: 20px;
-  height: 50vh;
+  padding: 4vh;
+  padding-top: 8vh;
+  gap: 2vh;
+  height: 55vh;
   border-bottom: #e0003c solid .4vh;
+}
+
+.name{
+  margin-right: 1vh;
+}
+
+.input{
+  margin-right: 1vh;
 }
 
 .App-body_container{
   display: flex;
-  gap: 10px;
+  gap: .1vh;
 }
 
 
 .App-footer{
   display: flex;
-  align-items: center;
   justify-content: center;
-  padding: 10px;
-  height: 10vh;
+  padding-top: 2vh;
+  height: 8vh;
 }
