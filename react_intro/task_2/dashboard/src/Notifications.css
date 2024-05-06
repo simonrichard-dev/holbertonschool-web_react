@@ -6,12 +6,13 @@
 
 .Notifications {
   margin: 15px;
+  height: 18vh;
   border: #e0003c solid 2px;
   border-style: dashed;
 }
 
 .Notifications img {
-  width: 20px;
+  width: 3vh;
 }
 
 .Notifications button {
@@ -23,13 +24,13 @@
 
 .Notifications p {
   display: flex;
-  padding-top: 20px;
-  margin-left: 10px;
+  padding-top: 2vh;
+  margin-left: 2vh;
 
 }
 
 .Notifications ul {
-  padding: 20px 10px 20px 40px;
+  padding: 2vh 1vh 2vh 4vh;
 }
 
 

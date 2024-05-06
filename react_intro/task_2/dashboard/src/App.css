@@ -4,9 +4,18 @@
   box-sizing: border-box;
 }
 
+.root-notifications {
+  height: 20vh;
+}
+
+.App {
+  height: 80vh
+}
+
 .App-header{
   display: flex;
-  border-bottom: #e0003c solid 4px;
+  border-bottom: #e0003c solid .4vh;
+  height: 20vh;
 }
 
 .App-header img{
@@ -23,8 +32,8 @@
   flex-direction: column;
   padding: 45px;
   gap: 20px;
-  height: 800px;
-  border-bottom: #e0003c solid 4px;
+  height: 50vh;
+  border-bottom: #e0003c solid .4vh;
 }
 
 .App-body_container{
@@ -38,4 +47,5 @@
   align-items: center;
   justify-content: center;
   padding: 10px;
+  height: 10vh;
 }
