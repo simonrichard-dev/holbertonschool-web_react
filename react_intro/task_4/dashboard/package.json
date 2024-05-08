@@ -1,7 +1,7 @@
 {
   "name": "dashboard",
   "version": "0.1.0",
-  "homepage": "https://github.com/simonrichard-dev/holbertonschool-web_react/tree/main/react_intro/task_4/dashboard",
+  "homepage": "https://simonrichard-dev.github.io/holbertonschool-web_react/react_intro/task_4/",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
