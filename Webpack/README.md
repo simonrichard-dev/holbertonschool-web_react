@@ -1,4 +1,4 @@
-![Webpack Image](assets/webpack_image.jpeg)
+![Webpack Image](assets/webpack_image.jpg)
 
 # Webpack Project
 
