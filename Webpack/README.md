@@ -1,10 +1,12 @@
-![Webpack Image](assets/webpack_image.jpg)
+<div align="center">
+  <h1>Webpack Project</h1>
+</div>
 
-# Webpack Project
+![Webpack Image](assets/webpack_image.jpg)
 
 ## Project Information
 
-### Resources :open_book:
+### Resources
 - Read or watch:
   - [Webpack Documentation](https://webpack.js.org/concepts/)
   - [Webpack Beginner Guide](https://webpack.js.org/guides/getting-started/)
@@ -49,5 +51,5 @@ By the end of this project, you should be able to explain:
 
 ---
 
-**Author:** Simon RICHARD :email:
+**Author:** Simon RICHARD  
 **LinkedIn:** [simonrichard-dev](https://www.linkedin.com/in/simonrichard-dev/)
